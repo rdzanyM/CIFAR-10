@@ -1,3 +1,9 @@
+# Image data (can be downloaded form kaggle)
+data/
+
+# Submissions
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
