@@ -1,6 +1,9 @@
 # Image data (can be downloaded form kaggle)
 data/
 
+# Debug image visualisation data
+preview/
+
 # Submissions
 *.csv
 
